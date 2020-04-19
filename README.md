@@ -1,2 +1,2 @@
-# flaglly.net
+# flagli.net
 Feature Flag Development .NET SDK
